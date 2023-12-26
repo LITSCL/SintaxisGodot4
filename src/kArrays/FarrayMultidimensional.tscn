@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/kArrays/FarrayMultidimensional.gd" id="1_6y8kg"]
+
+[node name="FarrayMultidimensional" type="Node"]
+script = ExtResource("1_6y8kg")

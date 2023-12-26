@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/nManejoDeErrores/AcapturarExcepcion.gd" id="1_cl457"]
+
+[node name="AcapturarExcepcion" type="Node"]
+script = ExtResource("1_cl457")

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/iLecturaDeDatos/AlecturaPorConsola.gd" id="1_tgct1"]
+
+[node name="AlecturaPorConsola" type="Node"]
+script = ExtResource("1_tgct1")

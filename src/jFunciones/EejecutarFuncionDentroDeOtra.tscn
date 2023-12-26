@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/jFunciones/EejecutarFuncionDentroDeOtra.gd" id="1_e42an"]
+
+[node name="EejecutarFuncionDentroDeOtra" type="Node"]
+script = ExtResource("1_e42an")

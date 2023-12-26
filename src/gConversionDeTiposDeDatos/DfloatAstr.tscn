@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/gConversionDeTiposDeDatos/DfloatAstr.gd" id="1_sy012"]
+
+[node name="DfloatAstr" type="Node"]
+script = ExtResource("1_sy012")

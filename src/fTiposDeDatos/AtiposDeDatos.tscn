@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/fTiposDeDatos/AtiposDeDatos.gd" id="1_km6c3"]
+
+[node name="AtiposDeDatos" type="Node"]
+script = ExtResource("1_km6c3")

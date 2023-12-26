@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/kArrays/BindicesEnArrays.gd" id="1_j0t87"]
+
+[node name="BindicesEnArrays" type="Node"]
+script = ExtResource("1_j0t87")

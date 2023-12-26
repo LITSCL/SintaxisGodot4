@@ -1,0 +1,5 @@
+extends Node
+
+func codigo() -> void:
+	var numero_int: int = 10 #Declaración e iniciación de variable.
+	var numero_string: String = str(numero_int) #En esta variable se almacena la refundición del valor de la variable anterior.

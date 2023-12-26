@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://src/mSistemaDeArchivos/EcopiarUnArchivo.gd" id="1_jqya3"]
+
+[node name="EcopiarUnArchivo" type="Node"]
+script = ExtResource("1_jqya3")
