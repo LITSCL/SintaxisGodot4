@@ -1,2 +1,4 @@
-res://main.tscn
+res://src/oPOO/Bconstructor/Moto.gd
 res://main.gd
+res://src/oPOO/CdetectarTipoDeInstancia/Bicicleta.gd
+res://main.tscn

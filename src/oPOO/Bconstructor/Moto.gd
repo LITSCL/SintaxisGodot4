@@ -6,7 +6,7 @@ var modelo: String
 var velocidad_actual: int
 
 #2. Constructor de la clase (Permite entregar los atributos al momento de crear una instancia).
-func _init(color, marca, modelo, velocidad_actual):
+func _init(color: String, marca: String, modelo: String, velocidad_actual: int):
 	self.color = color
 	self.marca = marca
 	self.modelo = modelo

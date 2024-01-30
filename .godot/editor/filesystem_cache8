@@ -1,8 +1,8 @@
 2a60927148abd1d33b818b535e306557
-::res://::1706587504
+::res://::1706594618
 icon.svg::CompressedTexture2D::5148745699346940435::1706587470::1706587470::1::::<><>::
-main.gd::GDScript::-1::1706587470::0::1::::<>Node<>::
-main.tscn::PackedScene::8458196267443494035::1706587470::0::1::::<><>::res://main.gd
+main.gd::GDScript::-1::1706587783::0::1::::<>Node<>::
+main.tscn::PackedScene::8458196267443494035::1706587738::0::1::::<><>::res://main.gd
 ::res://src/::1706587470
 ::res://src/aSalidaPorPantalla/::1706587470
 AsalidaPorPantalla.gd::GDScript::-1::1706587470::0::1::::<>Node<>::
